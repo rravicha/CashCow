@@ -1,0 +1,3 @@
+pyhtml
+pandas
+openpyxl
